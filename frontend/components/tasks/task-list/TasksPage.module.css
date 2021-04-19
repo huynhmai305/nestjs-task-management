@@ -1,0 +1,53 @@
+.TasksWrapper {
+  width: 100%;
+  max-width: 860px;
+  margin: auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.TasksHeader {
+  display: flex;
+  justify-content: center;
+  border-bottom: 3px solid #757c87;
+}
+
+.Title {
+  width: 100%;
+  color: #edf4ff;
+}
+
+.CreateButtonContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.TasksContainer {
+  padding-top: 20px;
+}
+
+.EmptyTasksPlaceholder {
+  color: #edf4ff;
+  text-align: center;
+  font-size: 22px;
+}
+
+.SignOutIconContainer {
+  margin-left: 10px;
+}
+
+.SignOutIconContainer .signOutIcon {
+  fill: #edf4ff;
+}
+
+.FiltersContainer {
+  margin-top: 20px;
+}
+
+.ControlContainer {
+  background-color: #c0cde0;
+  border-radius: 5px;
+  padding: 10px;
+}

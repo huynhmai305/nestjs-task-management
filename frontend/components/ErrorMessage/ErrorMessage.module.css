@@ -1,0 +1,17 @@
+.ErrorContainer {
+  width: 100%;
+  padding: 8px 16px;
+  background-color: #f7c5c0;
+  color: #a51809;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.ErrorHeading {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.ErrorList {
+  padding-left: 20px;
+}
