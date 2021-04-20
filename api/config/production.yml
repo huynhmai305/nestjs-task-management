@@ -1,5 +1,4 @@
+server:
+  origin: // link aws
 db:
   synchronize: false
-
-jwt:
-  secret: 'mySecret'
